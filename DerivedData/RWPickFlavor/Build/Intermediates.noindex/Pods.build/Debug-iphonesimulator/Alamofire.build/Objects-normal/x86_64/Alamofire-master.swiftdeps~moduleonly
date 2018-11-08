@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "b95aaecbc2207b3fdaaef82294c37c4f"
+build_time: [1541689034, 74632000]
+inputs:
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/AFError.swift": [1541688998, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/Alamofire.swift": [1541688998, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1541688997, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/MultipartFormData.swift": [1541688997, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1541688997, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/Notifications.swift": [1541688998, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/ParameterEncoding.swift": [1541688998, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/Request.swift": [1541688998, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/Response.swift": [1541688998, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/ResponseSerialization.swift": [1541688998, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/Result.swift": [1541688998, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1541688998, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/SessionDelegate.swift": [1541688998, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/SessionManager.swift": [1541688998, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/TaskDelegate.swift": [1541688997, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/Timeline.swift": [1541688997, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Alamofire/Source/Validation.swift": [1541688998, 0]

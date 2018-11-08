@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "e060a39ffeabb2dbfcc3f2be6c3c0a37"
+build_time: [1541689401, 247633000]
+inputs:
+  "/Users/sergio.orozco/Documents/RWPickFlavor/RWPickFlavor/Controllers/PickFlavorViewController.swift": [1534624088, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/RWPickFlavor/Models/Flavor.swift": [1532183962, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/RWPickFlavor/Controllers/PickFlavorDataSource.swift": [1532184384, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/RWPickFlavor/Views/IceCreamView.swift": [1534624188, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/RWPickFlavor/Categories/RGBAColorFromString.swift": [1534623966, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/RWPickFlavor/Views/ScoopCell.swift": [1532184210, 0]
+  "/Users/sergio.orozco/Documents/RWPickFlavor/RWPickFlavor/Views/ScoopView.swift": [1532184244, 0]

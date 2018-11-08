@@ -1,0 +1,10 @@
+framework module RWPickFlavor {
+  umbrella header "RWPickFlavor.h"
+
+  export *
+  module * { export * }
+}
+
+module RWPickFlavor.__Swift {
+    exclude header "RWPickFlavor-Swift.h"
+}

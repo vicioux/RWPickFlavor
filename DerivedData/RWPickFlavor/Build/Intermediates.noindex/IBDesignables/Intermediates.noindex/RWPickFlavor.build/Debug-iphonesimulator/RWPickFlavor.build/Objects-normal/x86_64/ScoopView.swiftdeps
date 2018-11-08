@@ -1,0 +1,560 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ScoopView"
+provides-nominal:
+- "12RWPickFlavor9ScoopViewC"
+provides-member:
+- ["12RWPickFlavor9ScoopViewC", ""]
+provides-dynamic-lookup:
+- "bottomColor"
+- "draw"
+- "topColor"
+depends-top-level:
+- !private "Array"
+- !private "CFArray"
+- !private "CGColorSpaceCreateDeviceRGB"
+- !private "CGGradient"
+- !private "CGGradientDrawingOptions"
+- !private "CGPath"
+- !private "CGPoint"
+- "CGRect"
+- "CastingPrecedence"
+- "Flavor"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "ScoopView"
+- "UIColor"
+- !private "UIGraphicsGetCurrentContext"
+- "UIView"
+depends-member:
+- !private ["So15CALayerDelegateP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So15CALayerDelegateP", "CGGradient"]
+- !private ["So15CALayerDelegateP", "CGGradientDrawingOptions"]
+- !private ["So15CALayerDelegateP", "CGPath"]
+- !private ["So15CALayerDelegateP", "CGPoint"]
+- ["So15CALayerDelegateP", "Flavor"]
+- !private ["So15CALayerDelegateP", "UIGraphicsGetCurrentContext"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "bottomColor"]
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "setNeedsDisplay"]
+- !private ["So15CALayerDelegateP", "topColor"]
+- !private ["So12CGContextRefa", "addPath"]
+- !private ["So12CGContextRefa", "clip"]
+- !private ["So12CGContextRefa", "drawLinearGradient"]
+- !private ["So13CGGradientRefa", "init"]
+- !private ["So24CGGradientDrawingOptionsV", "init"]
+- !private ["So9CGPathRefa", "init"]
+- !private ["So7CGPointV", "init"]
+- !private ["So6CGRectV", "maxY"]
+- !private ["So6CGRectV", "midX"]
+- !private ["So6CGRectV", "minY"]
+- !private ["s7CVarArgP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["s7CVarArgP", "CGGradient"]
+- !private ["s7CVarArgP", "CGGradientDrawingOptions"]
+- !private ["s7CVarArgP", "CGPath"]
+- !private ["s7CVarArgP", "CGPoint"]
+- ["s7CVarArgP", "Flavor"]
+- !private ["s7CVarArgP", "UIGraphicsGetCurrentContext"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "bottomColor"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "cgColor"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "setNeedsDisplay"]
+- !private ["s7CVarArgP", "topColor"]
+- !private ["s28CustomDebugStringConvertibleP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["s28CustomDebugStringConvertibleP", "CGGradient"]
+- !private ["s28CustomDebugStringConvertibleP", "CGGradientDrawingOptions"]
+- !private ["s28CustomDebugStringConvertibleP", "CGPath"]
+- !private ["s28CustomDebugStringConvertibleP", "CGPoint"]
+- ["s28CustomDebugStringConvertibleP", "Flavor"]
+- !private ["s28CustomDebugStringConvertibleP", "UIGraphicsGetCurrentContext"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "bottomColor"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "cgColor"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "maxY"]
+- !private ["s28CustomDebugStringConvertibleP", "midX"]
+- !private ["s28CustomDebugStringConvertibleP", "minY"]
+- !private ["s28CustomDebugStringConvertibleP", "setNeedsDisplay"]
+- !private ["s28CustomDebugStringConvertibleP", "topColor"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "maxY"]
+- !private ["s29CustomPlaygroundQuickLookableP", "midX"]
+- !private ["s29CustomPlaygroundQuickLookableP", "minY"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "maxY"]
+- !private ["s17CustomReflectableP", "midX"]
+- !private ["s17CustomReflectableP", "minY"]
+- !private ["s23CustomStringConvertibleP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["s23CustomStringConvertibleP", "CGGradient"]
+- !private ["s23CustomStringConvertibleP", "CGGradientDrawingOptions"]
+- !private ["s23CustomStringConvertibleP", "CGPath"]
+- !private ["s23CustomStringConvertibleP", "CGPoint"]
+- ["s23CustomStringConvertibleP", "Flavor"]
+- !private ["s23CustomStringConvertibleP", "UIGraphicsGetCurrentContext"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "bottomColor"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "cgColor"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "setNeedsDisplay"]
+- !private ["s23CustomStringConvertibleP", "topColor"]
+- !private ["Se", "init"]
+- !private ["Se", "maxY"]
+- !private ["Se", "midX"]
+- !private ["Se", "minY"]
+- !private ["SE", "init"]
+- !private ["SE", "maxY"]
+- !private ["SE", "midX"]
+- !private ["SE", "minY"]
+- !private ["SQ", "CGColorSpaceCreateDeviceRGB"]
+- !private ["SQ", "CGGradient"]
+- !private ["SQ", "CGGradientDrawingOptions"]
+- !private ["SQ", "CGPath"]
+- !private ["SQ", "CGPoint"]
+- ["SQ", "Flavor"]
+- !private ["SQ", "UIGraphicsGetCurrentContext"]
+- ["SQ", ""]
+- !private ["SQ", "addPath"]
+- !private ["SQ", "bottomColor"]
+- !private ["SQ", "bounds"]
+- !private ["SQ", "cgColor"]
+- !private ["SQ", "clip"]
+- !private ["SQ", "drawLinearGradient"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "maxY"]
+- !private ["SQ", "midX"]
+- !private ["SQ", "minY"]
+- !private ["SQ", "setNeedsDisplay"]
+- !private ["SQ", "topColor"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- ["12RWPickFlavor0B0V", "bottomColor"]
+- ["12RWPickFlavor0B0V", "topColor"]
+- ["12RWPickFlavor0B0V", "vanilla"]
+- !private ["SH", "CGColorSpaceCreateDeviceRGB"]
+- !private ["SH", "CGGradient"]
+- !private ["SH", "CGGradientDrawingOptions"]
+- !private ["SH", "CGPath"]
+- !private ["SH", "CGPoint"]
+- ["SH", "Flavor"]
+- !private ["SH", "UIGraphicsGetCurrentContext"]
+- ["SH", ""]
+- !private ["SH", "addPath"]
+- !private ["SH", "bottomColor"]
+- !private ["SH", "bounds"]
+- !private ["SH", "cgColor"]
+- !private ["SH", "clip"]
+- !private ["SH", "drawLinearGradient"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "setNeedsDisplay"]
+- !private ["SH", "topColor"]
+- !private ["So8NSCodingP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So8NSCodingP", "CGGradient"]
+- !private ["So8NSCodingP", "CGGradientDrawingOptions"]
+- !private ["So8NSCodingP", "CGPath"]
+- !private ["So8NSCodingP", "CGPoint"]
+- ["So8NSCodingP", "Flavor"]
+- !private ["So8NSCodingP", "UIGraphicsGetCurrentContext"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "bottomColor"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "cgColor"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "setNeedsDisplay"]
+- !private ["So8NSCodingP", "topColor"]
+- !private ["So9NSCopyingP", "cgColor"]
+- !private ["So21NSItemProviderReadingP", "cgColor"]
+- !private ["So21NSItemProviderWritingP", "cgColor"]
+- !private ["So8NSObjectC", "CFArray"]
+- !private ["So8NSObjectC", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So8NSObjectC", "CGGradient"]
+- !private ["So8NSObjectC", "CGGradientDrawingOptions"]
+- !private ["So8NSObjectC", "CGPath"]
+- !private ["So8NSObjectC", "CGPoint"]
+- ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "Flavor"]
+- ["So8NSObjectC", "UIColor"]
+- !private ["So8NSObjectC", "UIGraphicsGetCurrentContext"]
+- ["So8NSObjectC", "bottomColor"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "cgColor"]
+- ["So8NSObjectC", "draw"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "setNeedsDisplay"]
+- ["So8NSObjectC", "topColor"]
+- !private ["So8NSObjectP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So8NSObjectP", "CGGradient"]
+- !private ["So8NSObjectP", "CGGradientDrawingOptions"]
+- !private ["So8NSObjectP", "CGPath"]
+- !private ["So8NSObjectP", "CGPoint"]
+- ["So8NSObjectP", "Flavor"]
+- !private ["So8NSObjectP", "UIGraphicsGetCurrentContext"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "bottomColor"]
+- !private ["So8NSObjectP", "bounds"]
+- !private ["So8NSObjectP", "cgColor"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "setNeedsDisplay"]
+- !private ["So8NSObjectP", "topColor"]
+- !private ["So14NSSecureCodingP", "cgColor"]
+- !private ["s9OptionSetP", "init"]
+- !private ["SY", "init"]
+- !private ["12RWPickFlavor9ScoopViewC", "CFArray"]
+- !private ["12RWPickFlavor9ScoopViewC", "CGColorSpaceCreateDeviceRGB"]
+- !private ["12RWPickFlavor9ScoopViewC", "CGGradient"]
+- !private ["12RWPickFlavor9ScoopViewC", "CGGradientDrawingOptions"]
+- !private ["12RWPickFlavor9ScoopViewC", "CGPath"]
+- !private ["12RWPickFlavor9ScoopViewC", "CGPoint"]
+- ["12RWPickFlavor9ScoopViewC", "CGRect"]
+- ["12RWPickFlavor9ScoopViewC", "Flavor"]
+- ["12RWPickFlavor9ScoopViewC", "UIColor"]
+- !private ["12RWPickFlavor9ScoopViewC", "UIGraphicsGetCurrentContext"]
+- ["12RWPickFlavor9ScoopViewC", "bottomColor"]
+- !private ["12RWPickFlavor9ScoopViewC", "bounds"]
+- !private ["12RWPickFlavor9ScoopViewC", "deinit"]
+- ["12RWPickFlavor9ScoopViewC", "draw"]
+- ["12RWPickFlavor9ScoopViewC", "init"]
+- !private ["12RWPickFlavor9ScoopViewC", "setNeedsDisplay"]
+- ["12RWPickFlavor9ScoopViewC", "topColor"]
+- !private ["s10SetAlgebraP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So29UIAccessibilityIdentificationP", "CGGradient"]
+- !private ["So29UIAccessibilityIdentificationP", "CGGradientDrawingOptions"]
+- !private ["So29UIAccessibilityIdentificationP", "CGPath"]
+- !private ["So29UIAccessibilityIdentificationP", "CGPoint"]
+- ["So29UIAccessibilityIdentificationP", "Flavor"]
+- !private ["So29UIAccessibilityIdentificationP", "UIGraphicsGetCurrentContext"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "bottomColor"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "setNeedsDisplay"]
+- !private ["So29UIAccessibilityIdentificationP", "topColor"]
+- !private ["So12UIAppearanceP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So12UIAppearanceP", "CGGradient"]
+- !private ["So12UIAppearanceP", "CGGradientDrawingOptions"]
+- !private ["So12UIAppearanceP", "CGPath"]
+- !private ["So12UIAppearanceP", "CGPoint"]
+- ["So12UIAppearanceP", "Flavor"]
+- !private ["So12UIAppearanceP", "UIGraphicsGetCurrentContext"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "bottomColor"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "setNeedsDisplay"]
+- !private ["So12UIAppearanceP", "topColor"]
+- !private ["So21UIAppearanceContainerP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So21UIAppearanceContainerP", "CGGradient"]
+- !private ["So21UIAppearanceContainerP", "CGGradientDrawingOptions"]
+- !private ["So21UIAppearanceContainerP", "CGPath"]
+- !private ["So21UIAppearanceContainerP", "CGPoint"]
+- ["So21UIAppearanceContainerP", "Flavor"]
+- !private ["So21UIAppearanceContainerP", "UIGraphicsGetCurrentContext"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "bottomColor"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "setNeedsDisplay"]
+- !private ["So21UIAppearanceContainerP", "topColor"]
+- !private ["So7UIColorC", "cgColor"]
+- !private ["So17UICoordinateSpaceP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So17UICoordinateSpaceP", "CGGradient"]
+- !private ["So17UICoordinateSpaceP", "CGGradientDrawingOptions"]
+- !private ["So17UICoordinateSpaceP", "CGPath"]
+- !private ["So17UICoordinateSpaceP", "CGPoint"]
+- ["So17UICoordinateSpaceP", "Flavor"]
+- !private ["So17UICoordinateSpaceP", "UIGraphicsGetCurrentContext"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "bottomColor"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "setNeedsDisplay"]
+- !private ["So17UICoordinateSpaceP", "topColor"]
+- !private ["So13UIDynamicItemP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So13UIDynamicItemP", "CGGradient"]
+- !private ["So13UIDynamicItemP", "CGGradientDrawingOptions"]
+- !private ["So13UIDynamicItemP", "CGPath"]
+- !private ["So13UIDynamicItemP", "CGPoint"]
+- ["So13UIDynamicItemP", "Flavor"]
+- !private ["So13UIDynamicItemP", "UIGraphicsGetCurrentContext"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "bottomColor"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "setNeedsDisplay"]
+- !private ["So13UIDynamicItemP", "topColor"]
+- !private ["So18UIFocusEnvironmentP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So18UIFocusEnvironmentP", "CGGradient"]
+- !private ["So18UIFocusEnvironmentP", "CGGradientDrawingOptions"]
+- !private ["So18UIFocusEnvironmentP", "CGPath"]
+- !private ["So18UIFocusEnvironmentP", "CGPoint"]
+- ["So18UIFocusEnvironmentP", "Flavor"]
+- !private ["So18UIFocusEnvironmentP", "UIGraphicsGetCurrentContext"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "bottomColor"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "setNeedsDisplay"]
+- !private ["So18UIFocusEnvironmentP", "topColor"]
+- !private ["So11UIFocusItemP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So11UIFocusItemP", "CGGradient"]
+- !private ["So11UIFocusItemP", "CGGradientDrawingOptions"]
+- !private ["So11UIFocusItemP", "CGPath"]
+- !private ["So11UIFocusItemP", "CGPoint"]
+- ["So11UIFocusItemP", "Flavor"]
+- !private ["So11UIFocusItemP", "UIGraphicsGetCurrentContext"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "bottomColor"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "setNeedsDisplay"]
+- !private ["So11UIFocusItemP", "topColor"]
+- !private ["So20UIFocusItemContainerP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So20UIFocusItemContainerP", "CGGradient"]
+- !private ["So20UIFocusItemContainerP", "CGGradientDrawingOptions"]
+- !private ["So20UIFocusItemContainerP", "CGPath"]
+- !private ["So20UIFocusItemContainerP", "CGPoint"]
+- ["So20UIFocusItemContainerP", "Flavor"]
+- !private ["So20UIFocusItemContainerP", "UIGraphicsGetCurrentContext"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "bottomColor"]
+- !private ["So20UIFocusItemContainerP", "bounds"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "setNeedsDisplay"]
+- !private ["So20UIFocusItemContainerP", "topColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGGradient"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGGradientDrawingOptions"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGPath"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGPoint"]
+- ["So30UIPasteConfigurationSupportingP", "Flavor"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIGraphicsGetCurrentContext"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "bottomColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "setNeedsDisplay"]
+- !private ["So30UIPasteConfigurationSupportingP", "topColor"]
+- !private ["So11UIResponderC", "CFArray"]
+- !private ["So11UIResponderC", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So11UIResponderC", "CGGradient"]
+- !private ["So11UIResponderC", "CGGradientDrawingOptions"]
+- !private ["So11UIResponderC", "CGPath"]
+- !private ["So11UIResponderC", "CGPoint"]
+- ["So11UIResponderC", "CGRect"]
+- ["So11UIResponderC", "Flavor"]
+- ["So11UIResponderC", "UIColor"]
+- !private ["So11UIResponderC", "UIGraphicsGetCurrentContext"]
+- ["So11UIResponderC", "bottomColor"]
+- !private ["So11UIResponderC", "bounds"]
+- ["So11UIResponderC", "draw"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "setNeedsDisplay"]
+- ["So11UIResponderC", "topColor"]
+- !private ["So30UIResponderStandardEditActionsP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So30UIResponderStandardEditActionsP", "CGGradient"]
+- !private ["So30UIResponderStandardEditActionsP", "CGGradientDrawingOptions"]
+- !private ["So30UIResponderStandardEditActionsP", "CGPath"]
+- !private ["So30UIResponderStandardEditActionsP", "CGPoint"]
+- ["So30UIResponderStandardEditActionsP", "Flavor"]
+- !private ["So30UIResponderStandardEditActionsP", "UIGraphicsGetCurrentContext"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "bottomColor"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "setNeedsDisplay"]
+- !private ["So30UIResponderStandardEditActionsP", "topColor"]
+- !private ["So18UITraitEnvironmentP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So18UITraitEnvironmentP", "CGGradient"]
+- !private ["So18UITraitEnvironmentP", "CGGradientDrawingOptions"]
+- !private ["So18UITraitEnvironmentP", "CGPath"]
+- !private ["So18UITraitEnvironmentP", "CGPoint"]
+- ["So18UITraitEnvironmentP", "Flavor"]
+- !private ["So18UITraitEnvironmentP", "UIGraphicsGetCurrentContext"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "bottomColor"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "setNeedsDisplay"]
+- !private ["So18UITraitEnvironmentP", "topColor"]
+- !private ["So23UIUserActivityRestoringP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So23UIUserActivityRestoringP", "CGGradient"]
+- !private ["So23UIUserActivityRestoringP", "CGGradientDrawingOptions"]
+- !private ["So23UIUserActivityRestoringP", "CGPath"]
+- !private ["So23UIUserActivityRestoringP", "CGPoint"]
+- ["So23UIUserActivityRestoringP", "Flavor"]
+- !private ["So23UIUserActivityRestoringP", "UIGraphicsGetCurrentContext"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "bottomColor"]
+- !private ["So23UIUserActivityRestoringP", "bounds"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "setNeedsDisplay"]
+- !private ["So23UIUserActivityRestoringP", "topColor"]
+- !private ["So6UIViewC", "CFArray"]
+- !private ["So6UIViewC", "CGColorSpaceCreateDeviceRGB"]
+- !private ["So6UIViewC", "CGGradient"]
+- !private ["So6UIViewC", "CGGradientDrawingOptions"]
+- !private ["So6UIViewC", "CGPath"]
+- !private ["So6UIViewC", "CGPoint"]
+- ["So6UIViewC", "CGRect"]
+- ["So6UIViewC", "Flavor"]
+- ["So6UIViewC", "UIColor"]
+- !private ["So6UIViewC", "UIGraphicsGetCurrentContext"]
+- ["So6UIViewC", ""]
+- ["So6UIViewC", "bottomColor"]
+- !private ["So6UIViewC", "bounds"]
+- ["So6UIViewC", "draw"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "setNeedsDisplay"]
+- ["So6UIViewC", "topColor"]
+- !private ["14CoreFoundation9_CFObjectP", "addPath"]
+- !private ["14CoreFoundation9_CFObjectP", "clip"]
+- !private ["14CoreFoundation9_CFObjectP", "drawLinearGradient"]
+- !private ["14CoreFoundation9_CFObjectP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "CGGradient"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "CGGradientDrawingOptions"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "CGPath"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "CGPoint"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", "Flavor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "UIGraphicsGetCurrentContext"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bottomColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setNeedsDisplay"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "topColor"]
+- !private ["s26_ExpressibleByColorLiteralP", "cgColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGColorSpaceCreateDeviceRGB"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGGradient"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGGradientDrawingOptions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGPath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGPoint"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Flavor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIGraphicsGetCurrentContext"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bottomColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cgColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setNeedsDisplay"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "topColor"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "maxY"]
+- !private ["s21_ObjectiveCBridgeableP", "midX"]
+- !private ["s21_ObjectiveCBridgeableP", "minY"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- !private "So12CGContextRefa"
+- !private "So13CGGradientRefa"
+- !private "So24CGGradientDrawingOptionsV"
+- !private "So9CGPathRefa"
+- !private "So7CGPointV"
+- !private "So6CGRectV"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "12RWPickFlavor0B0V"
+- "SH"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "s9OptionSetP"
+- !private "SY"
+- "12RWPickFlavor9ScoopViewC"
+- !private "s10SetAlgebraP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So7UIColorC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "14CoreFoundation9_CFObjectP"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s26_ExpressibleByColorLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/sergio.orozco/Documents/RWPickFlavor/DerivedData/RWPickFlavor/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Headers/Public/MBProgressHUD/MBProgressHUD.h"
+- "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Headers/Public/MBProgressHUD/MBProgressHUD-umbrella.h"
+- "/Users/sergio.orozco/Documents/RWPickFlavor/DerivedData/RWPickFlavor/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire-umbrella.h"
+- "/Users/sergio.orozco/Documents/RWPickFlavor/RWPickFlavor/RWPickFlavor.h"
+- "/Users/sergio.orozco/Documents/RWPickFlavor/DerivedData/RWPickFlavor/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Swift Compatibility Header/Alamofire-Swift.h"
+- "/Users/sergio.orozco/Documents/RWPickFlavor/Pods/Headers/Public/MBProgressHUD/MBProgressHUD.modulemap"
+- "/Users/sergio.orozco/Documents/RWPickFlavor/DerivedData/RWPickFlavor/Build/Intermediates.noindex/IBDesignables/Intermediates.noindex/RWPickFlavor.build/Debug-iphonesimulator/RWPickFlavor.build/unextended-module.modulemap"
+- "/Users/sergio.orozco/Documents/RWPickFlavor/DerivedData/RWPickFlavor/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "dd7f2ea7c4fb3032b3af1c529c678087"

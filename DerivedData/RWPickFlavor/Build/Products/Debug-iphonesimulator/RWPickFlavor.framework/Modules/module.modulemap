@@ -1,0 +1,11 @@
+framework module RWPickFlavor {
+  umbrella header "RWPickFlavor.h"
+
+  export *
+  module * { export * }
+}
+
+module RWPickFlavor.Swift {
+    header "RWPickFlavor-Swift.h"
+    requires objc
+}
